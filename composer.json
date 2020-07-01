@@ -1,25 +1,25 @@
 {
-  "name": "saferpay/library",
-  "description": "Saferpay PaymentService Lib",
+  "name": "shanty/library",
+  "description":  "shanty PaymentService Lib",
   "require": {
-     "php": "^7.0.3"
+    "php": "^7.0.3"
+  },
+  "type": "magento2-library",
+  "version": "1.0.0",
+  "extra": {
+    "map": [
+      [
+        "*",
+        "Shanty/PaymentService"
+      ]
+    ]
   },
   "authors": [
     {
-      "name": "PIT Solutions",
-      "email": "info@webshopextension.com",
+      "name": "Shanty Justus",
+      "email": "shanty@pitsolutions.xom",
       "homepage": "https://www.webshopextension.com/",
       "role": "Developer"
     }
-  ],
-  "type": "magento2-library",
-  "version": "1.0.2",
-  "autoload": {
-    "files": [
-      "registration.php"
-    ],
-    "psr-4": {
-      "Saferpay\\PaymentService\\": ""
-    }
-  }
+  ]
 }
