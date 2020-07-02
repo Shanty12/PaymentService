@@ -1,5 +1,5 @@
 <?php
-namespace Shanty\PaymentService;
+namespace Shanty12\PaymentService;
 
 interface Constants
 {
