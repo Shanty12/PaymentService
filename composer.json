@@ -2,11 +2,10 @@
   "name": "shanty/library",
   "description":  "shanty PaymentService Lib",
   "require": {
-    "php": "^7.0.3",
-    "shanty/library": "dev-master"
+    "php": "^7.0.3"
   },
   "type": "magento2-library",
-  "version": "dev-master",
+  "version":  "@dev",
   "extra": {
     "map": [
       [
@@ -25,6 +24,5 @@
   ],
   "license": [
     "MIT"
-  ],
-  "minimum-stability": "dev"
+  ]
 }
