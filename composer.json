@@ -21,5 +21,8 @@
       "homepage": "https://www.webshopextension.com/",
       "role": "Developer"
     }
+  ],
+  "license": [
+    "https://www.webshopextension.com/en/licence-agreement-saferpay"
   ]
 }
