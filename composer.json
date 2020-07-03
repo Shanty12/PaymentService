@@ -1,8 +1,7 @@
 {
   "name": "shanty/library",
   "description":  "shanty PaymentService Lib",
-  "type": "magento2-library",
-  "version":  "dev-master",
+  "type": "magento2-library", 
    "authors": [
     {
       "name": "Shanty Justus",
