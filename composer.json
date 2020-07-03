@@ -5,7 +5,7 @@
     "php": "^7.0.3"
   },
   "type": "magento2-library",
-  "version":  "@dev",
+  "version":  "^1.0",
   "extra": {
     "map": [
       [
