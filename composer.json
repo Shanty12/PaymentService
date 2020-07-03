@@ -1,9 +1,6 @@
 {
   "name": "shanty/library",
   "description":  "shanty PaymentService Lib",
-  "require": {
-    "php": "^7.0.3"
-  },
   "type": "magento2-library",
   "version":  "dev-master",
   "extra": {
