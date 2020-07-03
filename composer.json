@@ -5,7 +5,7 @@
     "php": "^7.0.3"
   },
   "type": "magento2-library",
-  "version":  "^1.0",
+  "version":  "dev-master",
   "extra": {
     "map": [
       [
@@ -25,5 +25,5 @@
   "license": [
     "MIT"
   ],
-  "minimum-stability": "dev"
+  "minimum-stability": "dev-master"
 }
