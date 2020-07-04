@@ -1,15 +1,7 @@
 {
   "name": "shanty/library",
   "description":  "shanty PaymentService Lib",
-  "type": "magento2-library", 
-   "authors": [
-    {
-      "name": "Shanty Justus",
-      "email": "shanty@pitsolutions.xom",
-      "homepage": "https://www.webshopextension.com/",
-      "role": "Developer"
-    }
-  ],
+  "type": "magento2-library",
   "license": [
     "afl-3.0"
   ]
