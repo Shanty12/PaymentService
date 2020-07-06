@@ -13,7 +13,11 @@
         }
     ],
     "type": "magento2-library",
- 
+    "autoload": {
+        "psr-4": {
+            "Saferpay\\PaymentService\\":  "lib/internal/Saferpay/PaymentService/"
+        }
+    },
     "license": [
         "afl-3.0"
     ]
