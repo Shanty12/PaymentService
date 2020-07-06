@@ -18,7 +18,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Saferpay\\PaymentService\\": ""
+            "Saferpay\\PaymentService\\":  "lib/internal/Saferpay/PaymentService/"
         }
     },
     "license": [
